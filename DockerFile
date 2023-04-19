@@ -14,7 +14,7 @@ COPY . .
 # Install any required dependencies
 RUN npm install
 
-# Expose the required port for the application to run
+# Expose the required port for the application to run .
 EXPOSE 3001
 
 # Start the application
